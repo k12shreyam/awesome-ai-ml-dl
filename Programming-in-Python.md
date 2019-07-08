@@ -30,6 +30,7 @@
 - [PySheee: Python Cheatsheet](https://www.pythonsheets.com/)
 - [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 - [Python for Data Science](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+- [Python Machine Learning Mini-Course](https://machinelearningmastery.com/python-machine-learning-mini-course/)
 
 ## Static analysis
 
