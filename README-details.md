@@ -87,10 +87,14 @@
   - [Neural Networks WTF by Katharine Beaumont](https://www.youtube.com/watch?time_continue=1&v=ZoXo4fLMigg)
   - **Convolutional Neural Networks (CNN)**
     - [A Beginner's Guide to Understanding Convolutional Neural Networks - @DZone](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/) ([Tweet](https://twitter.com/java/status/890423290044456960))
+    - [Crash Course in Convolutional Neural Networks for Machine Learning](https://machinelearningmastery.com/crash-course-convolutional-neural-networks/)
   - **Long Short Term Memory (LSTM)**
     - [Steps to construct an LSTM neural network and use it to generate Java code like a programmer](https://www.programcreek.com/2017/07/recurrent-neural-network-example-ai-programmer-1/) ([Tweet](https://twitter.com/java/status/882616811962875906))
+    - [Mini-Course on Long Short-Term Memory Recurrent Neural Networks with Keras](https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/)
+    - [CNN Long Short-Term Memory Networks](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/)
   - **Recurrent Neural Network (RNN)**
     - [Three Part Tutorial Series Build an AI Programmer using Recurrent Neural Network](https://www.programcreek.com/2017/07/recurrent-neural-network-example-ai-programmer-1/) ([Tweet](https://twitter.com/java/status/958698885731487744))
+    - [Crash Course in Recurrent Neural Networks for Deep Learning](https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/)
 
 #### Recommendation systems / Collaborative Filtering (CF)
   - [Tutorial on Collaborative Filtering (CF) in Java – a machine learning technique used by recommendation systems](https://www.baeldung.com/java-collaborative-filtering-recommendations) ([Tweet](https://twitter.com/java/status/985150431549632513))
